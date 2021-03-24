@@ -1,3 +1,6 @@
+## [1.1.1] - 03/24/2021
+* Fixed: Error: Method not found: 'ButtonTheme.bar' in Flutter 2.x
+
 ## [1.1.0] - 04/26/2019
 * Fix issue
 [#12](https://github.com/figengungor/country_pickers/issues/12) - Fix background color setting for CountryPickerCupertino. Thanks @rhmoeller
